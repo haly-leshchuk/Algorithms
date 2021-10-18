@@ -1,4 +1,5 @@
-// by Alexander Nikolskiy
+// Algorithms Week 2
+// Given two integers 𝑛 and 𝑚, output 𝐹 𝑛mod 𝑚 (that is, the remainder of 𝐹 𝑛when divided by 𝑚).
 
 const readline = require('readline');
 const rl = readline.createInterface({
